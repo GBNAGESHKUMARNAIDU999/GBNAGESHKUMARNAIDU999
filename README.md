@@ -1,495 +1,223 @@
 
-<!--
-╔══════════════════════════════════════════════════════╗
-║     G B NAGESH KUMAR — PREMIUM PROFILE README        ║
-╚══════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070A12,45:111827,100:123B50&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=NAGESH%20KUMAR&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20INNOVATOR&descSize=14&descAlignY=58&animation=twinkling&color=0:020617,25:172554,60:7F1D1D,100:030712"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=INTELLIGENCE+MEETS+IMAGINATION;BUILDING+THE+NEXT+GENERATION+OF+AI;FROM+IDEA+TO+EXECUTION;ENGINEERED+TO+CREATE+IMPACT" alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://github.com/GBNAGESHKUMARNAIDU999.png" width="145" height="145" style="border-radius:50%;" alt="G B Nagesh Kumar profile picture"/>
+<img src="https://github.com/GBNAGESHKUMARNAIDU999.png" width="155" alt="Nagesh Kumar GitHub profile picture"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENGINEER-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-EXPLORER-F87171?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DATA-INTELLIGENCE-FFFFFF?style=for-the-badge&labelColor=020617"/>
 
 <br/><br/>
 
-<sub>G B NAGESH KUMAR &nbsp; / &nbsp; AI · DATA · INTELLIGENCE</sub>
-
-# G B NAGESH KUMAR
-
-### Building intelligent ideas into useful experiences.
-
 <a href="https://gbnageshkumarportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-00D9FF?style=for-the-badge&labelColor=080B12&logo=googlechrome&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/↗_EXPLORE_MY_PORTFOLIO-38BDF8?style=for-the-badge&labelColor=020617"/>
 </a>
 <a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-FFFFFF?style=for-the-badge&labelColor=080B12&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/⌘_DISCOVER_MY_WORK-F87171?style=for-the-badge&labelColor=020617"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=GENERATIVE+AI+%2F+LLM+APPLICATIONS;CONVERSATIONAL+AI+%2F+PROMPT+ENGINEERING;DATA+ANALYTICS+%2F+INTELLIGENT+SOLUTIONS;15+PROJECTS+%2F+ONE+CONTINUOUS+JOURNEY" alt="Animated developer introduction"/>
-
-<br/>
-
-<sub>BASED IN BENGALURU, INDIA &nbsp; · &nbsp; OPEN TO OPPORTUNITIES</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:123B50,50:00D9FF,100:123B50&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,45:FFFFFF,100:F87171"/>
 
 </div>
 
-<br/>
+## 🔷 01 / BEYOND THE CODE
 
-## 01 — THE PERSON BEHIND THE CODE
+I'm **G B Nagesh Kumar**, an AI/ML engineer passionate about intelligent systems, Generative AI, conversational applications, computer vision, and data analytics.
+
+I enjoy transforming ideas into useful digital experiences through experimentation, automation, and thoughtful engineering.
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
-### Thoughtful AI. Practical outcomes.
+### `01` — INTELLIGENCE
 
-I'm **G B Nagesh Kumar**, an AI/ML engineer interested in building intelligent applications that connect human language, data, and useful digital experiences.
-
-My work spans Generative AI, LLM-powered applications, conversational systems, computer vision, browser-based tools, and data-driven solutions.
-
-I enjoy turning ideas into working products through experimentation, thoughtful design, and continuous learning.
-
-**CURRENT FOCUS**
-
-- Generative AI & LLM-powered applications
-- Conversational AI and prompt engineering
-- Computer vision and intelligent workflows
-- Data analytics and visualisation
-- Building polished, user-focused applications
+- Generative AI & LLM applications
+- Conversational AI
+- Prompt engineering
+- NLP and computer vision
 
 </td>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GBNAGESHKUMARNAIDU999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github" width="100%" alt="GitHub profile statistics"/>
+### `02` — ENGINEERING
 
-<br/>
-
-<a href="https://gbnageshkumarportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PERSONAL%20WEBSITE-Visit%20Portfolio-00D9FF?style=for-the-badge&labelColor=0D1117" width="100%"/>
-</a>
+- Python and SQL
+- HTML and CSS
+- Git and GitHub
+- Power BI and Excel
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/THINK-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BUILD-FFFFFF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INNOVATE-F87171?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
 ---
 
-## 02 — MY TECHNICAL UNIVERSE
+## 🔴 02 / MY DIGITAL ARSENAL
 
-<sub>TOOLS AND TECHNOLOGIES FEATURED IN MY PORTFOLIO</sub>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark&perline=7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-0B1020?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-0B1020?style=for-the-badge&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/POWER_BI-0B1020?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/EXCEL-0B1020?style=for-the-badge&logo=microsoftexcel&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/NLP_&_COMPUTER_VISION-0B1020?style=for-the-badge&logoColor=F87171"/>
+
+</div>
+
+---
+
+## ⚡ 03 / SELECTED PROJECTS
+
+<sub>REAL PROJECTS · LIVE EXPERIENCES · EXPERIMENTAL BUILDS</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Programming & Development
+<img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00D9FF"/>
+### AI Prompt Generator
 
-### ◈ Generative AI & Intelligence
+Create creative prompts for AI image generation.
 
-<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&logo=openai&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Conversational_AI-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/ML_Fundamentals-0D1117?style=flat-square&logoColor=00D9FF"/>
+<a href="https://github.com/GBNAGESHKUMARNAIDU999/ai-prompt-generator">VIEW SOURCE ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Data & Business Intelligence
+<img src="https://img.shields.io/badge/02-COMPUTER_VISION-F87171?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Data_Analysis-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Visualisation-0D1117?style=flat-square&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Reporting-0D1117?style=flat-square&logoColor=00D9FF"/>
+### Color Detector
 
-### ◈ Additional Tools
+Explore color detection and tracking with computer vision.
 
-<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Google_Bard-0D1117?style=flat-square&logo=google&logoColor=00D9FF"/>
-
-### ◈ Core Strengths
-
-- Analytical thinking & problem-solving
-- Team collaboration & adaptability
-- Clear communication
-- Translating business requirements into AI workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 — SELECTED WORK / LIVE PROJECTS
-
-<sub>15 PROJECTS · AI · COMPUTER VISION · WEB APPLICATIONS · DATA-DRIVEN TOOLS</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://dark-fashion-ai.lovable.app/">
-<img src="https://img.shields.io/badge/01-GENERATIVE_AI-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Dark Fashion AI
-
-An AI-powered virtual styling assistant generating personalised outfit recommendations through conversational input and structured prompt engineering.
-
-`PYTHON` `LLMs` `PROMPT ENGINEERING`
-
-[Explore live project ↗](https://dark-fashion-ai.lovable.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://dark-disiple.lovable.app/">
-<img src="https://img.shields.io/badge/02-CONVERSATIONAL_AI-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Dark AI
-
-An adaptive conversational assistant designed for context-aware responses, analytical interactions, and reusable prompt workflows.
-
-`CONVERSATIONAL AI` `PROMPTS`
-
-[Explore live project ↗](https://dark-disiple.lovable.app/)
+<a href="https://colordectordark-gubex7q2zrbhwnoqcj2gva.streamlit.app/">LAUNCH PROJECT ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://dark-smart-questioans-bot.lovable.app/">
-<img src="https://img.shields.io/badge/03-PYTHON_ASSISTANT-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<img src="https://img.shields.io/badge/03-WEB_DEVELOPMENT-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-### Dark Smart Questions Bot
+### Leh Ladakh Experience
 
-An interactive Python assistant for exploring programming concepts and answering Python-related questions.
+A visual travel website designed to showcase destinations.
 
-`PYTHON` `LLMs`
-
-[Explore live project ↗](https://dark-smart-questioans-bot.lovable.app/)
+<a href="https://lehladakhwebdark.netlify.app/">EXPLORE ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://colordectordark-gubex7q2zrbhwnoqcj2gva.streamlit.app/">
-<img src="https://img.shields.io/badge/04-COMPUTER_VISION-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Color Detector & Tracker
-
-Real-time color detection using OpenCV, FastAPI, and Streamlit, with color clustering, a named-color collection, and fashion and interior-design suggestions.
-
-`OPENCV` `FASTAPI` `STREAMLIT`
-
-[Explore live project ↗](https://colordectordark-gubex7q2zrbhwnoqcj2gva.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://resumeanaliserdark.netlify.app/">
-<img src="https://img.shields.io/badge/05-AI_TOOL-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### AI Resume Analyzer
-
-A browser-based resume analysis tool that reads PDF, DOCX, and TXT files and evaluates ATS readiness.
-
-`JAVASCRIPT` `DOCUMENT PARSING` `ATS SCORING`
-
-[Explore live project ↗](https://resumeanaliserdark.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://playit-playful-forge.lovable.app/">
-<img src="https://img.shields.io/badge/06-MEDIA_APPLICATION-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Play It — Interactive Media Player
-
-An interactive media experience for imported video and music, built through prompt-driven development.
-
-`MEDIA` `LOVABLE` `PROMPTING`
-
-[Explore live project ↗](https://playit-playful-forge.lovable.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://darklawrules.lovable.app/">
-<img src="https://img.shields.io/badge/07-LEGAL_SEARCH-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Dark Law Rules
-
-A legal-information search experience designed to help users explore rules and regulations.
-
-`WEB APPLICATION` `LEGAL SEARCH`
-
-[Explore live project ↗](https://darklawrules.lovable.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://stooop.netlify.app/">
-<img src="https://img.shields.io/badge/08-WEB_UTILITY-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Stop Watch
-
-A responsive stopwatch with millisecond timing, lap tracking, and intuitive controls.
-
-`HTML` `CSS` `JAVASCRIPT`
-
-[Explore live project ↗](https://stooop.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://darkagecalculator.netlify.app/">
-<img src="https://img.shields.io/badge/09-UTILITY-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<img src="https://img.shields.io/badge/04-INTERACTIVE_TOOLS-F87171?style=for-the-badge&labelColor=020617"/>
 
 ### Age Chronos
 
-A modern age calculator with detailed age breakdowns, a real-time counter, and birthday countdown.
+A modern age calculator with interactive functionality.
 
-`HTML` `CSS` `JAVASCRIPT`
-
-[Explore live project ↗](https://darkagecalculator.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://lehladakhwebdark.netlify.app/">
-<img src="https://img.shields.io/badge/10-TRAVEL_WEBSITE-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Leh Ladakh Travel Website
-
-A responsive travel website presenting tour experiences through visual design and modern animations.
-
-`HTML` `CSS` `ANIMATIONS`
-
-[Explore live project ↗](https://lehladakhwebdark.netlify.app/)
+<a href="https://darkagecalculator.netlify.app/">TRY IT ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://srishivashakathilighting.netlify.app/">
-<img src="https://img.shields.io/badge/11-BUSINESS_WEBSITE-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Sri Shiva Shakathi Lighting
-
-A business website for lighting and event-item enquiries and bookings.
-
-`HTML` `CSS` `BUSINESS WEB`
-
-[Explore live project ↗](https://srishivashakathilighting.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://dark-python-ntr-web.netlify.app/">
-<img src="https://img.shields.io/badge/12-CREATIVE_WEB-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Python Teacher Farewell Tribute
-
-A creative tribute website featuring visual storytelling, video, and interactive sections.
-
-`HTML` `CSS` `JAVASCRIPT`
-
-[Explore live project ↗](https://dark-python-ntr-web.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://eventcalanderdark.netlify.app/">
-<img src="https://img.shields.io/badge/13-REACT_APPLICATION-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### EventCal
-
-A browser-based application for creating, managing, and discovering events.
-
-`REACT` `VITE`
-
-[Explore live project ↗](https://eventcalanderdark.netlify.app/)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://watertrackerdark.netlify.app/">
-<img src="https://img.shields.io/badge/14-REACT_APPLICATION-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-### Water Tracker
-
-A hydration-tracking application with progress monitoring, custom themes, and a dark-mode interface.
-
-`REACT` `VITE` `TAILWIND CSS`
-
-[Explore live project ↗](https://watertrackerdark.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<a href="https://123dmoduledark.netlify.app/">
-<img src="https://img.shields.io/badge/15-3D_VISUALIZATION-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
+<img src="https://img.shields.io/badge/05-3D_VISUALIZATION-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 ### Interactive 3D Visualizer
 
-An interactive tool for transforming 2D images into 3D visualisations with adjustable depth, dynamic themes, and a polished interface.
+Explore a visualisation experience built around 2D images and 3D depth.
 
-`REACT` `THREE.JS` `TAILWIND CSS`
+<a href="https://123dmoduledark.netlify.app/">EXPLORE ↗</a>
 
-[Explore live project ↗](https://123dmoduledark.netlify.app/)
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/06-REACT_APPLICATIONS-F87171?style=for-the-badge&labelColor=020617"/>
+
+### Water Tracker
+
+A hydration tracking interface with progress monitoring.
+
+<a href="https://watertrackerdark.netlify.app/">TRY IT ↗</a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<a href="https://gbnageshkumarportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW_THE_FULL_PORTFOLIO-EXPLORE_ALL_WORK-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-</div>
-
----
-
-## 04 — GITHUB / THE WORK BEHIND THE SCENES
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GBNAGESHKUMARNAIDU999&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=E6EDF3"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBNAGESHKUMARNAIDU999&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=GBNAGESHKUMARNAIDU999&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
-### Featured repositories
-
-| Repository | Description |
-|:--|:--|
-| [AI Prompt Generator](https://github.com/GBNAGESHKUMARNAIDU999/ai-prompt-generator) | Prompt creation for AI image generation |
-| [Stopwatch](https://github.com/GBNAGESHKUMARNAIDU999/stop---watch) | Stopwatch with lap tracking |
-| [Leh Ladakh Web](https://github.com/GBNAGESHKUMARNAIDU999/leh_ladakh_web) | Travel website |
-| [Age Calculator](https://github.com/GBNAGESHKUMARNAIDU999/age-__calculator) | Age Chronos utility |
-| [Website to Web Teacher](https://github.com/GBNAGESHKUMARNAIDU999/website_to_web_teacher) | HTML/CSS web application |
-| [Professional Image Prompt Generator](https://github.com/GBNAGESHKUMARNAIDU999/professional-_prompt_generator-_for-image) | Image prompt generation tool |
 
 <a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_MY_REPOSITORIES-FFFFFF?style=for-the-badge&labelColor=020617"/>
 </a>
 
----
+<a href="https://gbnageshkumarportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-F87171?style=for-the-badge&labelColor=020617"/>
+</a>
 
-## 05 — EDUCATION & CREDENTIALS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Education
-
-**B.E. — Artificial Intelligence & Machine Learning**
-
-Visvesvaraya Technological University
-
-`2025` · CGPA: `7.9 / 10`
-
-**Pre-University — PCMB Science**
-
-Aditya PU College
-
-`2021` · `76%`
-
-</td>
-<td width="50%" valign="top">
-
-### Certifications
-
-- Data Analyst Certification — PY SPIDERS
-- SQL Certification — PY SPIDERS
-- Excel & Power BI Certification — PY SPIDERS
-- Python Certification — GUVI
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 06 — LET'S BUILD SOMETHING INTELLIGENT
+## 💠 04 / THE CONTRIBUTION MATRIX
 
 <div align="center">
 
-### Have an idea that needs an AI mind?
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GBNAGESHKUMARNAIDU999&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=F87171&text_color=E2E8F0"/>
 
-I'm interested in learning, collaborating, and building meaningful AI-powered products.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBNAGESHKUMARNAIDU999&layout=compact&hide_border=true&bg_color=020617&title_color=F87171&text_color=E2E8F0"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://gbnageshkumarportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&labelColor=0D1117&logo=googlechrome&logoColor=00D9FF"/>
-</a>
-<a href="mailto:gbnageshkumar999@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-MESSAGE%20ME-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=EA4335"/>
-</a>
+<img width="85%" src="https://streak-stats.demolab.com?user=GBNAGESHKUMARNAIDU999&hide_border=true&background=020617&ring=38BDF8&fire=F87171&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## 🌐 05 / CONNECT TO MY WORLD
+
+<div align="center">
+
+### Ideas are better when they're built together.
+
 <a href="https://github.com/GBNAGESHKUMARNAIDU999">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=020617"/>
+</a>
+<a href="https://gbnageshkumarportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-F87171?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=020617"/>
 </a>
 
 <br/><br/>
 
-<sub>DESIGNED FOR THE CURIOUS · BUILT FOR WHAT'S NEXT</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=F87171&center=true&vCenter=true&width=600&lines=CREATE+WITHOUT+LIMITS;ENGINEER+WITH+PURPOSE;MAKE+INTELLIGENCE+USEFUL" alt="Closing animation"/>
 
 <br/>
 
-**DREAM → DESIGN → DEVELOP → DEPLOY**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:123B50,100:070A12&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:030712,45:172554,75:7F1D1D,100:020617&animation=twinkling"/>
 
 </div>
