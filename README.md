@@ -6,7 +6,15 @@
 <!-- PREMIUM GITHUB PROFILE — README.md                    -->
 <!-- Replace GITHUB_USERNAME with your actual username     -->
 <!-- ═══════════════════════════════════════════════════════ -->
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile.png" width="220" alt="My Profile Picture"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=700&lines=G.+B.+NAGESH+KUMAR;AI+DEVELOPER;INNOVATOR+%7C+BUILDER" alt="Animated Name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Generative+AI+%7C+Python+%7C+AI+Agents" alt="Animated tagline"/>
+
+</div>
 <div align="center">
 
 <!-- HERO BACKGROUND BANNER -->
