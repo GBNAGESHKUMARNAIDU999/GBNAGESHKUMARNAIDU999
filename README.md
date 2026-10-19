@@ -1,86 +1,95 @@
-<div align="center">
+ <div align="center">
 
-<!-- HERO PORTRAIT -->
 <a href="https://github.com/GBNAGESHKUMARNAIDU999">
-<img src="https://github.com/GBNAGESHKUMARNAIDU999.png" width="100%" alt="G B Nagesh Kumar — GitHub Profile"/>
+<img src="https://github.com/GBNAGESHKUMARNAIDU999.png" width="180" alt="Nagesh Kumar GitHub Avatar"/>
 </a>
 
-<!-- ANIMATED NAME + 3D-STYLE TYPOGRAPHY -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=2200&pause=700&color=54E6FF&center=true&vCenter=true&width=850&height=90&lines=G.+B.+NAGESH+KUMAR;AI+DEVELOPER;INNOVATOR+%7C+BUILDER" width="100%" alt="Animated name and title"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=G.%20B.%20Nagesh%20Kumar&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%7C%20Innovator%20%7C%20Builder&descAlignY=65&descSize=16&color=0:080810,50:31105D,100:007C91&animation=fadeIn" width="100%" alt="Animated gradient banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:080810,45:35106B,100:00BFD8&animation=fadeIn" width="100%" alt="Animated neon banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=54E6FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Generative+AI+%7C+Python+%7C+AI+Agents;Turning+Ideas+Into+Real+Products;Code.+Create.+Innovate." alt="Animated introduction"/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-00BFD8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILDING%20THE%20FUTURE-EC4899?style=for-the-badge" />
+<br/>
+
+<a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-7C3AED?style=for-the-badge&logo=github" alt="Explore projects"/></a>
+<a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=followers"><img src="https://img.shields.io/badge/CONNECT-Follow%20on%20GitHub-06B6D4?style=for-the-badge&logo=github" alt="Follow on GitHub"/></a>
+
+</div>
+
+---
+
+## ◈ ABOUT ME
+
+Hi, I'm **Nagesh Kumar**, an AI and software development enthusiast interested in building intelligent applications and practical digital solutions.
+
+- **Focus:** Artificial Intelligence, Generative AI and AI agents
+- **Programming:** Python and web development
+- **Interests:** Automation, LLMs, prompt engineering and intelligent applications
+- **Goal:** Transform innovative ideas into useful software products
+
+---
+
+## ◈ TECHNOLOGY STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Programming and development tools"/>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-06B6D4?style=for-the-badge" alt="AI agents"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-EC4899?style=for-the-badge" alt="Machine learning"/>
+
+</div>
+
+---
+
+## ◈ MY PROJECTS
+
+Explore my actual public repositories directly on GitHub. This link always leads to my repository list, including projects I add in the future.
+
+<div align="center">
+
 <a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-Open%20Repositories-7C3AED?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-Open%20GitHub%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All GitHub projects"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ ABOUT ME
-
-I'm **G. B. Nagesh Kumar**, an AI and software development enthusiast focused on building intelligent applications and practical digital products.
-
-- **AI:** Generative AI, LLMs and AI agents
-- **Development:** Python, APIs and web technologies
-- **Interests:** Automation, intelligent systems and innovation
-- **Mission:** Turn ideas into impactful technology
-
-## 🚀 TECHNOLOGY STACK
+## ◈ GITHUB ANALYTICS
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" alt="Technology stack"/>
-
-</div>
-
-## 💎 FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories">
-<img src="https://img.shields.io/badge/01%20%7C%20ALL%20PROJECTS-Browse%20My%20Repositories-7C3AED?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/GBNAGESHKUMARNAIDU999">
-<img src="https://img.shields.io/badge/02%20%7C%20OPEN%20SOURCE-Explore%20My%20Code-00BFD8?style=for-the-badge&logo=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GBNAGESHKUMARNAIDU999&show_icons=true&hide_border=true&bg_color=080810&title_color=54E6FF&icon_color=7C3AED&text_color=E5E7EB" alt="GitHub statistics"/>
 </a>
 
-</div>
-
-## 📊 GITHUB PERFORMANCE
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GBNAGESHKUMARNAIDU999&show_icons=true&hide_border=true&bg_color=080810&title_color=54E6FF&icon_color=7C3AED&text_color=FFFFFF" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBNAGESHKUMARNAIDU999&layout=compact&hide_border=true&bg_color=080810&title_color=54E6FF&text_color=FFFFFF" alt="Programming languages"/>
+<a href="https://github.com/GBNAGESHKUMARNAIDU999">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBNAGESHKUMARNAIDU999&layout=compact&hide_border=true&bg_color=080810&title_color=54E6FF&text_color=E5E7EB" alt="Most used programming languages"/>
+</a>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=GBNAGESHKUMARNAIDU999&theme=tokyonight&hide_border=true&background=080810&ring=7C3AED&fire=00BFD8&currStreakLabel=54E6FF" alt="GitHub activity streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=GBNAGESHKUMARNAIDU999&hide_border=true&background=080810&ring=7C3AED&fire=F43F5E&currStreakLabel=54E6FF&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
 
-## 🌌 LET'S BUILD SOMETHING AMAZING
+---
+
+## ◈ LET'S CONNECT
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1800&pause=500&color=54E6FF&center=true&vCenter=true&width=650&lines=THINK+IN+3D.;BUILD+WITH+INTELLIGENCE.;CREATE+WITHOUT+LIMITS." alt="Animated closing statement"/>
+<a href="https://github.com/GBNAGESHKUMARNAIDU999"><img src="https://img.shields.io/badge/GitHub-My%20Profile-111111?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
 
-<a href="https://github.com/GBNAGESHKUMARNAIDU999?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=54E6FF" />
-</a>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:080810,50:35106B,100:00BFD8" width="100%" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=54E6FF&center=true&vCenter=true&width=550&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+INNOVATING." alt="Animated closing message"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080810,50:31105D,100:007C91" width="100%" alt="Gradient footer"/>
 
 </div>
