@@ -1,4 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════ -->
+ <div align="center">
+<img src="./assets/profile.png" width="220" alt="My Profile Picture" />
+<h2>⚡ AI Developer | Innovator | Builder</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=450&lines=Building+Intelligent+AI+Systems;Generative+AI+%7C+Python+%7C+AI+Agents" />
+</div><!-- ═══════════════════════════════════════════════════════ -->
 <!-- PREMIUM GITHUB PROFILE — README.md                    -->
 <!-- Replace GITHUB_USERNAME with your actual username     -->
 <!-- ═══════════════════════════════════════════════════════ -->
