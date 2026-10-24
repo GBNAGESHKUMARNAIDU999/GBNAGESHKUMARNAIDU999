@@ -80,3 +80,4 @@ Hi, I'm Nagesh Kumar, an AI and software development enthusiast focused on build
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=54E6FF&center=true&vCenter=true&width=550&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+INNOVATING." alt="Motivational line" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080810,50:31105D,100:007C91" width="100%" alt="Footer gradient" />
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-111111?style=for-the-badge&logo=github)](https://github.com/GBNAGESHKUMARNAIDU999)
